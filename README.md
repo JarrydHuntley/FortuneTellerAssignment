@@ -12,7 +12,7 @@ Develop a console application that will tell the user’s fortune based on data 
 - [ ] Ask the user for the user’s age
 - [ ] Ask the user for the user’s birth month
 - [ ] Ask the user for the user’s favorite ROYGBIV color
-  - [ ] If the user does not know what ROYGBIV is, ask them to enter “Help” (print with the quotation marks) to get a list of the ROYGBIV colors
+  - [ ] If the user does not know what ROYGBIV is, ask them to enter “Help” to get a list of the ROYGBIV colors
 - [ ] Ask the user for the number of siblings the user has
 
 ### Part 2
